@@ -1,0 +1,17 @@
+.book {
+    border: 2px solid #333;
+    padding: 20px;
+    margin: 10px;
+    background-color: #f0f0f0;
+  }
+  
+  h2 {
+    font-size: 20px;
+    margin: 0;
+  }
+  
+  p {
+    font-size: 16px;
+    margin: 1;
+    color: #555;
+  }
